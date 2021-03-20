@@ -1,13 +1,13 @@
 {
-	"name": "detain/ip-tools",
+	"name": " taeasy/ip-tools",
 	"type": "library",
 	"description": "Universal IP Tools for manipulation on IPv4 and IPv6. Network calculator for subnet mask and other classless (CIDR) network information.",
 	"keywords": ["ip", "ipv4", "ipv6", "tools", "utilities", "compare", "match", "subnet", "mask", "calculator", "network", "cidr", "address"],
-	"homepage": "https://github.com/detain/ip-tools",
+	"homepage": "https://github.com/taeasy/ip-tools",
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/detain/ip-tools/issues",
-		"source": "https://github.com/detain/ip-tools"
+		"issues": "https://github.com/taeasy/ip-tools/issues",
+		"source": "https://github.com/taeasy/ip-tools"
 	},
 	"authors": [
 		{
